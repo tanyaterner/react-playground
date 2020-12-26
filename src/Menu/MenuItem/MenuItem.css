@@ -1,0 +1,18 @@
+
+
+.link{
+    text-decoration: none;
+    color:whitesmoke;
+    background:#8d9291 ;
+    font-size: 30px;
+    font-weight: 500;
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+
+}
+
+li{
+    padding: 20px;
+    list-style-type: none;
+}
